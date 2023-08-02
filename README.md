@@ -15,3 +15,4 @@ Na parte final do projeto aplicaram-se, em tempo real objetos da vida real no mu
 ou seja, sempre que uma face seja detetada serão colocados objetos na face.
 
 
+![Alt text](https://github.com/rubenAlbuquerque/Face-Detection-and-Recognition_VARM/blob/main/face.PNG)
